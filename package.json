@@ -27,6 +27,9 @@
     "pug": "^2.0.0-rc.2"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0"
+    "babel-core": "^6.26.0",
+    "cheerio": "^1.0.0-rc.2",
+    "handlebars": "^4.0.10",
+    "htmlparser": "^1.7.7"
   }
 }
